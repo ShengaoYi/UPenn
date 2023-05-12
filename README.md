@@ -14,3 +14,11 @@ Data scientists convert data into actionable intelligence. While most private se
 ## CPLN 632 Modeling Geographic Space
 
 The major objective of this course is to explore the nature and use of raster-oriented geographic information systems (GIS) for the analysis and synthesis of spatial patterns and processes. Modeling Geographical Space course is oriented more toward the qualities of geographical space itself (e.g. proximity, density, or interspersion) than the discrete objects that may occupy such space (e.g. water bodies, land parcels, or structures).
+
+## [MUSA 610 Javascript Programming for Planning](https://github.com/CPLN690-MUSA610)
+
+Throughout this 14 week course, you'll be learning to program web-based mapping and dashboard applications using HTML, CSS, and javascript. In addition to programming skills, we will stress the 'tools of the trade': you will use a text editor designed for programming; your code will be turned in with git and managed through github.
+
+## [MUSA 800 Smart Cities Practicum](https://pennmusa.github.io/MUSA_801.io/)
+
+This course pairs students with cities to work on real world data science projects. Students will develop the entire pipeline over the course of the semester. This includes the collection of unstructured data, development of spatial and statistical analytics and the visualization of these analytics by way of data dashboards.
