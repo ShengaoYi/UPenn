@@ -1,4 +1,4 @@
-# Records of Assignments at Upenn
+# Records of Assignments at UPenn
 
 ## MUSA 500 Spatial Statistics and Data Analytics
 The goal of this course is to familiarize students with a number of statistical and data mining techniques commonly used for analyzing different types of urban data. The course will have two key parts: 1) regression analysis for urban data, and 2) identifying patterns in urban data.
