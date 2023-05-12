@@ -19,6 +19,10 @@ The major objective of this course is to explore the nature and use of raster-or
 
 Throughout this 14 week course, you'll be learning to program web-based mapping and dashboard applications using HTML, CSS, and javascript. In addition to programming skills, we will stress the 'tools of the trade': you will use a text editor designed for programming; your code will be turned in with git and managed through github.
 
+## [MUSA 509 Geospatial Cloud Computing & Visualization](https://github.com/MUSA-509/course-materials/blob/master/syllabus.md)
+
+This course teaches students how to collect, store, wrangle and display cartographic data in a cloud-based setting. Students will learn a reproducible approach for pulling spatial data from APIs with emphasis on PostGIS, Socrata and BigQuery; to wrangle these data in python; and visualize in various platforms including Seaborn and Carto. Students will build their own APIs and eventually develop their own introductory custom web applications. This course is the first in a progression and leads to the Spring course on Javascript Programming for Planning (a class on building comprehensive mapping applications.)
+
 ## [MUSA 800 Smart Cities Practicum](https://pennmusa.github.io/MUSA_801.io/)
 
 This course pairs students with cities to work on real world data science projects. Students will develop the entire pipeline over the course of the semester. This includes the collection of unstructured data, development of spatial and statistical analytics and the visualization of these analytics by way of data dashboards.
